@@ -6,7 +6,7 @@
 ![With tonemapping](https://user-images.githubusercontent.com/77230051/186924314-a633e4de-a14f-4d85-9ebd-8bc4d7a81d93.png)
 
 ## Usage
-1. Download the nodegroup [here](https://github.com/yaoling1997/GT-ToneMapping/archive/refs/heads/main.zip).
+1. Download the nodegroup [here](https://github.com/festivize/Blender-GT-Tonemapper/archive/refs/heads/main.zip).
 2. Append the compositor nodetree *GranTurismoWrapper [APPEND]* to your project.
 3. Simply plug in your input image. Make sure your View Transform is set to **sRGB**.
 
